@@ -73,6 +73,8 @@ public class QuickFind {
 
     Union is too expensive. It takes N^2 array accesses to process a sequence of
     N union commands on N objects.
+
+    Quick Union is a better approach
      */
     }
 

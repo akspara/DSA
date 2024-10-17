@@ -4,4 +4,5 @@
 <br>
 
 ![](https://img.shields.io/badge/DynamicConnectivity-QuickFind-orange?style=flat&logo=codeium&logoColor=orange)
+![](https://img.shields.io/badge/DynamicConnectivity-QuickUnion-orange?style=flat&logo=codeium&logoColor=orange)
 
