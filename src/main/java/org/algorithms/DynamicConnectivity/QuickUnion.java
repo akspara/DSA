@@ -27,6 +27,11 @@ public class QuickUnion {
         }
     }
 
+    public int findLargest(int a)
+    {
+        return  rootCheck(a);
+    }
+
     private int rootCheck(int a)
     {
         //chase parent pointers until reach root
@@ -67,6 +72,23 @@ public class QuickUnion {
             size[childRoot]+=size[parentRoot];
         }
 
+        /*
+        To Find Largest
+        if we want to have knowledge to find the largest element in each connection we can always make root as the bigger
+        element .
+         */
+//
+//        if(parentRoot>childRoot)
+//        {
+//            connects[childRoot]=parentRoot;
+//        }
+//        else
+//        {
+//            connects[parentRoot] = childRoot;
+//        }
+
+
+
     }
     public boolean find(int a, int b)
     {
@@ -95,6 +117,11 @@ public class QuickUnion {
         System.out.println(quickUnion.find(1,7));
         System.out.println(quickUnion.find(8,1));
         System.out.println(quickUnion.find(5,6));
+
+        //will only work when To Find Largest code is implemented
+//        System.out.println(quickUnion.findLargest(2));
+//        System.out.println(quickUnion.findLargest(6));
+//        System.out.println(quickUnion.findLargest(3));
         quickUnion.displayArray();
         /*
     initialize complexity -N
