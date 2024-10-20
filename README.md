@@ -7,4 +7,5 @@
 ![](https://img.shields.io/badge/DynamicConnectivity-QuickUnion-orange?style=flat&logo=codeium&logoColor=orange)
 ![](https://img.shields.io/badge/DynamicConnectivity-SocialNetwork-orange?style=flat&logo=codeium&logoColor=orange)
 ![](https://img.shields.io/badge/DynamicConnectivity-Successor-orange?style=flat&logo=codeium&logoColor=orange)
+![](https://img.shields.io/badge/Searching-MazeMaximum-yellow?style=flat&logo=codeium&logoColor=yellow)
 
