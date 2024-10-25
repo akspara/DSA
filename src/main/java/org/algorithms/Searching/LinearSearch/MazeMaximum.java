@@ -1,4 +1,4 @@
-package org.algorithms.Searching;
+package org.algorithms.Searching.LinearSearch;
 
 import java.util.*;
 
