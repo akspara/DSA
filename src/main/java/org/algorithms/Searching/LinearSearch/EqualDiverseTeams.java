@@ -6,6 +6,16 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
+/*
+Alice has N students in his class, numbered 1 through N
+.The i-th student has expertise in a subject numbered Ai.
+Alice has to divide the students into two teams. The uniqueness of a team is defined as the number of distinct subjects
+such that there is atleast one student in the team with expertise in the subject.
+For example, the uniqueness of a team denoted by
+A=[1,2,3,2,4] is 3.
+Alice wants to distribute the students of the class into two teams such that each student belongs to exactly one team
+ and the uniqueness of each team is exactly K. Will he be able to do so?
+ */
 public class EqualDiverseTeams
 {
 
