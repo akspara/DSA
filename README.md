@@ -9,4 +9,5 @@
 ![](https://img.shields.io/badge/DynamicConnectivity-Successor-orange?style=flat&logo=codeium&logoColor=orange)
 ![](https://img.shields.io/badge/LinearSearch-MazeMaximum-yellow?style=flat&logo=codeium&logoColor=yellow)
 ![](https://img.shields.io/badge/LinearSearch-EqualDiverseTeams-yellow?style=flat&logo=codeium&logoColor=yellow)
+![](https://img.shields.io/badge/DivideAndConquer-BinarySearch-yellow?style=flat&logo=codeium&logoColor=blue)
 
