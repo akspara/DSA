@@ -1,4 +1,4 @@
-package org.algorithms.DivideAndConquer;
+package org.algorithms.Searching.BinarySearch;
 
 import java.util.ArrayList;
 import java.util.Arrays;
