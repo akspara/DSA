@@ -16,4 +16,5 @@
 ![](https://img.shields.io/badge/BinarySearch-Algo-blue?style=flat&logo=codeium&logoColor=blue)
 ![](https://img.shields.io/badge/BinarySearch-MinimumInSorted-blue?style=flat&logo=codeium&logoColor=blue)
 ![](https://img.shields.io/badge/BinarySearch-RotatedSortedSearch-blue?style=flat&logo=codeium&logoColor=blue)
+![](https://img.shields.io/badge/Sorting-BinarySort-red?style=flat&logo=codeium&logoColor=red)
 
