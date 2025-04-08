@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/LinearSearch-MazeMaximum-yellow?style=flat&logo=codeium&logoColor=yellow)
 ![](https://img.shields.io/badge/LinearSearch-EqualDiverseTeams-yellow?style=flat&logo=codeium&logoColor=yellow)
 ![](https://img.shields.io/badge/LinearSearch-FindMEX-yellow?style=flat&logo=codeium&logoColor=yellow)
+![](https://img.shields.io/badge/LinearSearch-EasySumSet-yellow?style=flat&logo=codeium&logoColor=yellow)
 ![](https://img.shields.io/badge/LinearSearch-EqualOperation-yellow?style=flat&logo=codeium&logoColor=yellow)
 ![](https://img.shields.io/badge/LinearSearch-EmployeeRating-yellow?style=flat&logo=codeium&logoColor=yellow)
 ![](https://img.shields.io/badge/LinearSearch-CountingFrogPaths-yellow?style=flat&logo=codeium&logoColor=yellow)
